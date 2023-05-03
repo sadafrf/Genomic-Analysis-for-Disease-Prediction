@@ -41,6 +41,8 @@ Three machine learning models are trained on the binary SNP data for heart disea
 ## Dependencies
 
 - pandas
+- numpy
 - scikit-learn
 - matplotlib
 - seaborn
+
