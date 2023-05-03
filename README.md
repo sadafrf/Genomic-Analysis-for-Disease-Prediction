@@ -9,20 +9,31 @@ Also I got SNP ids associated with the heart disease, diabetes, and asthma from 
 SNPs associated with asthma:
 
 1.Gudbjartsson et al., "Sequence variants affecting eosinophil numbers associate with asthma and myocardial infarction" (2009)
+
 2.Moffatt et al., "Genetic variants regulating ORMDL3 expression contribute to the risk of childhood asthma" (2007)
+
 3.Torgerson et al., "Meta-analysis of genome-wide association studies of asthma in ethnically diverse North American populations" (2011)
+
 4.Ferreira et al., "Genome-wide association analysis identifies 11 risk variants associated with the asthma with hay fever phenotype" (2014)
 
 SNPs associated with heart disease:
+
 1.Samani et al., "Genomewide association analysis of coronary artery disease" (2007)
+
 2.Deloukas et al., "Large-scale association analysis identifies new risk loci for coronary artery disease" (2013)
+
 3.Khera et al., "Genetic risk, adherence to a healthy lifestyle, and coronary disease" (2016)
+
 4.Nikpay et al., "A comprehensive 1,000 Genomes-based genome-wide association meta-analysis of coronary artery disease" (2015)
 
 SNPs associated with diabetes:
+
 1.Zeggini et al., "Meta-analysis of genome-wide association data and large-scale replication identifies additional susceptibility loci for type 2 diabetes" (2008)
+
 2.Saxena et al., "Genome-wide association analysis identifies loci for type 2 diabetes and triglyceride levels" (2010)
+
 3.Morris et al., "Large-scale association analysis provides insights into the genetic architecture and pathophysiology of type 2 diabetes" (2012)
+
 4.Mahajan et al., "Refining the accuracy of validated target identification through coding variant fine-mapping in type 2 diabetes" (2018)
 
 
